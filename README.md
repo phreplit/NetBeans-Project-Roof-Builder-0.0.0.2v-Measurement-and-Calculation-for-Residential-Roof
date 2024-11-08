@@ -1,0 +1,2 @@
+# Netbeans-Project-Roof-Builder-0.0.0.2v-Measurement-and-Calculation-for-Residential-Roof
+Project template for Netbeans IDE - Software: Roof Builder - 0.0.0.2v - Measurement and Calculation for Residential Roof, built in JavaFX with FXML for Windows Desktop Application.
